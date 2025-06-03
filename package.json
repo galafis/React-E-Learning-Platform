@@ -1,0 +1,11 @@
+{
+  "name": "react-e-learning-platform",
+  "version": "1.0.0",
+  "description": "Interactive E-Learning Platform",
+  "author": "Gabriel Demetrios Lafis",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
